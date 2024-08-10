@@ -3,18 +3,18 @@ scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gen
 
 ### Workflow
 <p align="center">
-  <img src="Figs/flow.png" width="400" />
+  <img src="Figs/flow.png" width="800" />
 </p>
 
 ### Architecture
 <p align="center">
-  <img src="Figs/architecture.png" width="600" />
+  <img src="Figs/architecture.png" width="200" />
 </p>
 
 
 
 ## Environment
-### The version information in use: Python 3.8.18, Pytorch 2.3.0
+The version information in use: Python 3.8.18, Pytorch 2.3.0
 
 
 
