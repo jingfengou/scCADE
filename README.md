@@ -8,7 +8,7 @@ scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gen
 
 ### Architecture
 <p align="center">
-  <img src="Figs/architecture.png" width="200" />
+  <img src="Figs/architecture.png" width="300" />
 </p>
 
 
